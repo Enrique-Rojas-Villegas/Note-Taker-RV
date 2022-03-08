@@ -20,7 +20,7 @@
 
   ## Deployed App <br>
 
-  https://intense-journey-63023.herokuapp.com/
+  https://mighty-stream-10527.herokuapp.com/
 
 ## Table of Contents
 
@@ -50,12 +50,12 @@ Enoc Rojas Villegas
 
 ## Tests
 
-No testin.
+No testing
 
 ## Images
 
-![HomePage](./Main/public/Assets/images/homepage.PNG)
-![Notes](./Main/public/Assets/images/notes.PNG)
+![HomePage](./public/Assets/images/homepage.PNG)
+![Notes](./public/Assets/images/notes.PNG)
 
 ## Questions
 
